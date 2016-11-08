@@ -1,15 +1,15 @@
 {
   "name": "router-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Router 是完整的 React 路由解决方案",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --inline --content-base ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "GuoYongfeng",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",
@@ -21,5 +21,13 @@
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoYongfeng/router-router-snippets-doc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/router-router-snippets-doc/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/router-router-snippets-doc#readme"
 }
