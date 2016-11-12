@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 
 export default class About extends Component {
+
   render(){
 
     const { message, more } = this.props.params
